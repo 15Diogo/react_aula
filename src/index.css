@@ -1,0 +1,28 @@
+body{
+    background-color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #fff;
+    text-align: center;
+    
+}
+h1,h2{
+    font-weight: 300;
+}
+input{
+    
+    color: gray;
+    border-radius: 5px;
+}
+button{
+    border-radius: 8px;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5ljdIPVD7VSaX27Rc3TAUf4_gW4mfOg7rmg&usqp=CAU");
+
+}
+header{
+    padding-top: 0%;
+    margin-top: 0%;
+    width: 300 rem;
+    border-radius: 8px;
+    align-items: center;
+}
+
