@@ -3,7 +3,7 @@ import React from 'react'
 function Primeiro() {
     return (
         <div>
-            <h1>Título</h1>
+            <h1>Header</h1>
             <h2>Subtitulo</h2>
          </div>      
     )       

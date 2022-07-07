@@ -1,0 +1,27 @@
+.Card2{
+    
+    padding-bottom: 5px;
+    
+    border-radius: 1px;
+    overflow: hidden;
+    text-justify: auto;
+    margin: 20px;
+    border: solid #000;
+
+
+}
+.Card2 .Footer{
+   background-color: aquamarine;
+    color: #ffff;
+    padding: 5px 0px;
+    margin-bottom: 0px;
+    overflow: hidden;
+
+}
+.Card2 .conteudo{
+    padding: 15px 0px;
+    color: #000;
+}
+.Card2 .header{
+    background-color: #000;
+}
