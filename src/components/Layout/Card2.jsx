@@ -4,8 +4,9 @@ import './Card2.css'
 export default props =>
         <div className='Card2'>
 
-                <header className='Header'></header>
-                        {props.titulo}
+                <div className='Header'>
+                        {props.tituloHeader}
+                </div>
 
                 <div className='conteudo'>
                         {props.children}
@@ -13,9 +14,8 @@ export default props =>
                 </div>
 
                 <div className='Footer'>
-                        { props.tituloBaixo}
-                </div>
-
-                
+                        { props.tituloFooter}
+                </div>  
 
         </div>
+     

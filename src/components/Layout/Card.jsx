@@ -5,16 +5,14 @@ export default props =>
         <div className='Card'>
 
                 <div className='Body'>
-                        {props.tituloBody}
+                        {props.tituloHeader}
                 </div>
           
-                <div className='conteudo'>
+                <div className='Conteudo'>
                     {props.children} 
                 </div>
 
                 <div className='Footer'>
-                        { props.titulo}
+                        { props.tituloFooter}
                 </div>
-
-
         </div>

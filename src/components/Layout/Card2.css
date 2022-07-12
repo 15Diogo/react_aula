@@ -1,27 +1,40 @@
 .Card2{
     
-    padding-bottom: 5px;
     
-    border-radius: 1px;
+    border-radius: 10px;
     overflow: hidden;
     text-justify: auto;
     margin: 20px;
-    border: solid #000;
+    border: 3px solid #8B0000;
+    flex-direction: column;
+
+    color: aliceblue;
+    
 
 
 }
-.Card2 .Footer{
-   background-color: aquamarine;
-    color: #ffff;
-    padding: 5px 0px;
-    margin-bottom: 0px;
-    overflow: hidden;
 
-}
 .Card2 .conteudo{
     padding: 15px 0px;
     color: #000;
+    flex: 1;
+
 }
-.Card2 .header{
+.Card2 .Header{
+    
+    background-color:#8B0000;
+    color: #ffff;
+    padding: 5px 0px;
+    margin-bottom: 0px;
+    
+}
+.Card2 .Footer{
     background-color: #000;
+    color: #ffff;
+    padding: 5px 0px;
+
+    
+    
+
+
 }
