@@ -1,0 +1,14 @@
+.Footer{
+    flex: auto;
+    height: 100px;
+    align-items: center;
+    padding-top: 40px;
+    color: aliceblue;
+    background-color: blueviolet;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.Footer.a{
+    margin-left: 2px;
+}

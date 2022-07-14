@@ -29,16 +29,45 @@ export default props =>
       </Card>
       <Card tituloFooter="Exercicio primeiro">
           <ComFilhos>
+              <ul>
+                  <li>Ana Maria</li>
+                  <li>Marcos Antônio</li>
+                  <li>joana Claudia</li>
+                  <li>joana Claudia</li>
+              </ul>
+          </ComFilhos>
+      </Card>
+      <Card tituloFooter="Exercicio primeiro">
+          <ComFilhos>
             <ul>
-            <li>Ana Maria</li>
-            <li>Marcos Antônio</li>
-            <li>joana Claudia</li>
-            <li>joana Claudia</li>
-          
-
+                <li>Ana Maria</li>
+                <li>Marcos Antônio</li>
+                <li>joana Claudia</li>
+                <li>joana Claudia</li>
              </ul>
           </ComFilhos>
       </Card>
+      <Card tituloFooter="Exercicio primeiro">
+          <ComFilhos>
+            <ul>
+                <li>Ana Maria</li>
+                <li>Marcos Antônio</li>
+                <li>joana Claudia</li>
+                <li>joana Claudia</li>
+             </ul>
+          </ComFilhos>
+      </Card>
+      <Card tituloFooter="Exercicio primeiro">
+          <ComFilhos>
+            <ul>
+                <li>Ana Maria</li>
+                <li>Marcos Antônio</li>
+                <li>joana Claudia</li>
+                <li>joana Claudia</li>
+             </ul>
+          </ComFilhos>
+      </Card>
+        
  
       
     </div>
