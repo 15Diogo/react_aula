@@ -9,7 +9,7 @@ export default props=> //colocar o props ou outro parametro pra pegar o parametr
 
         
          <div className='Footer'>
-               <a href='https://youtu.be/KTJKPZHwuAk'><FaYoutube  >Youtube</FaYoutube></a> 
+               <a href='https://youtu.be/KTJKPZHwuAk'><FaYoutube >Youtube</FaYoutube></a> 
                <a href=''></a>
 
             </div>
